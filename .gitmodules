@@ -4,3 +4,6 @@
 [submodule "themes/my-theme"]
 	path = themes/my-theme
 	url = https://github.com/molunanli/hexo-theme-my-theme.git
+[submodule "themes/zzz_theme"]
+	path = themes/zzz_theme
+	url = https://github.com/molunanli/zzz_theme.git
